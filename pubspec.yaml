@@ -1,9 +1,9 @@
 name: bot_toast_lego
-description: "lego is all you need"
+description: "lego that bot_toast apply to your project"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/bot_toast_lego
 
-version: 1.0.0+1
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
