@@ -10,6 +10,8 @@ lego about [bot_toast](https://pub.dev/packages/bot_toast) for [lego](https://le
 flutter pub global activate lego_cli
 lego create
 ```
+2. in terminal, enter the following command for add lego to project.
+ ```bash
 june add bot_toast_lego
 ```
 
